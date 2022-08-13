@@ -87,4 +87,25 @@ fun main(){
 }
 
 
+Inheritance:
+When one object acquires all the properties and behaviors of a parent object, it is known as inheritance.
+It provides code reusability. It is used to achieve runtime polymorphism.
+
+Parent class is known as Super class/Base Class.
+
+Child class is known as Sub class /Derived class.
+
+Overriding
+______________________________________________________________________
+
+Abstract class:
+Abstract class is incomplete class which can contain at least one abstract method.
+
+Abstraction:
+Hiding internal details and showing functionality is known as abstraction.
+For example phone call, we don't know the internal processing.
+
+Interfaces
+
+
 
